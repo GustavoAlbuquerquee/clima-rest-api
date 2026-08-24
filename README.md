@@ -8,10 +8,10 @@ Atividade 01 - Desenvolvimento e Integração de Aplicações Web.
 
 ## Autores
 
-| Nome | Matrícula |
-|---|---|
-| _(preencher)_ | _(preencher)_ |
-| _(preencher)_ | _(preencher)_ |
+| Nome | Código |
+| --- | --- |
+| Gustavo Albuquerque | 1639878 |
+| Enzo Fernandes | 1640746 |
 
 ## Dependências
 
