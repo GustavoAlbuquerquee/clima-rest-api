@@ -38,7 +38,7 @@ Maven, o projeto usa o Maven Wrapper.
 Clonar o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/clima-rest-api.git
+git clone https://github.com/GustavoAlbuquerquee/clima-rest-api.git
 ```
 
 ```bash
